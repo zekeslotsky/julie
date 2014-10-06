@@ -1,3 +1,5 @@
+To view this deployed visit <a href="http://zekejulie.herokuapp.com/">http://zekejulie.herokuapp.com</a>
+
 == README
 
 This README would normally document whatever steps are necessary to get the
